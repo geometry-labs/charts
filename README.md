@@ -1,4 +1,3 @@
 # Charts 
 
-Helm charts for insight-infrastructure. 
-
+Helm charts for geometry-labs.
